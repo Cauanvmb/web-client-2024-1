@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "primevue": "^4.0.5",
+    "sass-embedded": "^1.78.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
